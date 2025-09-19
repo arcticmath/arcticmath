@@ -5,7 +5,7 @@
     "url": "openAg('https://google.com')"
   },
   {
-    "name": "JuliusAI (NOT WORKING)",
+    "name": "JuliusAI (WORKING)",
     "imageUrl": "/assets/img/gpt.webp",
     "url": "openAg('https://julius.ai/ai-chatbot')"
   },
@@ -30,12 +30,12 @@
     "url": "openAg('https://reddit.com')"
   },
   {
-    "name": "Pinterest (NOT WORKING)",
+    "name": "Pinterest (WORKING)",
     "imageUrl": "/assets/img/pinterest.webp",
     "url": "openAg('https://www.pinterest.com')"
   },
   {
-    "name": "Coolmathgames (WORKING)",
+    "name": "coolmathgames (WORKING)",
     "imageUrl": "/assets/img/coolmathgames.webp",
     "url": "openAg('https://coolmathgames.com')"
   },
@@ -50,7 +50,7 @@
     "url": "openAg('https://y8.com')"
   },
   {
-    "name": "GeForce Now (NOT WORKING)",
+    "name": "GeForce Now (KINDA BROKEN)",
     "imageUrl": "/assets/img/geforcenow.webp",
     "url": "openAg('https://play.geforcenow.com')"
   },
@@ -96,7 +96,7 @@
     "url": "openAg('https://twitch.tv')"
   },
   {
-    "name": "TikTok (KINDA BROKEN)",
+    "name": "TikTok (WORKING)",
     "imageUrl": "/assets/img/tiktok.webp",
     "url": "openAg('https://tiktok.com')"
   },
